@@ -110,7 +110,7 @@ if options == "1" or options == "01":
  os.system("cd LOAD@CODE")
  os.system("python2 LOAD@CODE.py")
  os.system("pkg install ruby")
- os.system("gem install lolcat
+ os.system("gem install lolcat")
 
 elif options == "02" or options == "2":
  os.system("clear")
